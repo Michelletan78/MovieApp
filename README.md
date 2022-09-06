@@ -27,8 +27,7 @@ MoiveApp is an app that allows users to browse movies from the [The Movie Databa
 <img src="http://recordit.co/F2pGN0JuI3" width=250><br>
 <img src="https://youtube.com/shorts/VIAbkqdfvVw?feature=share" width=250><br>
 YouRubw link:
-https://youtube.com/shorts/VIAbkqdfvVw?feature=share
-
+https://youtu.be/VIAbkqdfvVw
 
 ### Notes
 Describe any challenges encountered while building the app.
