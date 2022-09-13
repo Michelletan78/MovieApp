@@ -24,7 +24,6 @@
 https://media.giphy.com/media/YvOvdXg8MGzC6EUiG9
 
 
-(https://user-images.githubusercontent.com/25970512/190014350-fa2a3748-dca3-446f-bf0c-c12b360e2991.png)
 
 
 
