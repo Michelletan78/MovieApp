@@ -14,8 +14,19 @@
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://giphy.com/gifs/YvOvdXg8MGzC6EUiG9" width=250><br>
-https://giphy.com/gifs/YvOvdXg8MGzC6EUiG9
+
+<img src="[
+](https://media.giphy.com/media/YvOvdXg8MGzC6EUiG9/giphy.gif)")
+     width=250><br>
+ 
+ https://media.giphy.com/media/YvOvdXg8MGzC6EUiG9/giphy.gif
+ 
+https://media.giphy.com/media/YvOvdXg8MGzC6EUiG9
+
+
+(https://user-images.githubusercontent.com/25970512/190014350-fa2a3748-dca3-446f-bf0c-c12b360e2991.png)
+
+
 
 
 
