@@ -21,10 +21,6 @@
  
  https://media.giphy.com/media/YvOvdXg8MGzC6EUiG9/giphy.gif
  
-https://media.giphy.com/media/YvOvdXg8MGzC6EUiG9
-
-
-
 
 
 
