@@ -48,6 +48,8 @@ FlexMoiveApp is an app that allows users to browse movies from the [The Movie Da
 
 
 
+https://media.giphy.com/media/1jW5EWJxjyqg02miQR/giphy-downsized-large.gif
+
 
 ### Notes
 Describe any challenges encountered while building the app.
